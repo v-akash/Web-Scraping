@@ -70,7 +70,7 @@ for i in l_offer:
     print(i)
   ![image](https://github.com/user-attachments/assets/8398c498-a1e3-4b8c-b7bb-3169f9429932)
 
-
+# pandas
 import pandas as pd
 #Data Frame
 data=({"Name":l_name},{"price":l_price},{"Rating":l_rating},{"Crossprice":l_cross_price},{"Offer":l_offer})
