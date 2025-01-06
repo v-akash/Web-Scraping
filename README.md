@@ -46,4 +46,5 @@ for i in range(1,int(page_num)+1):
 for i in l_name:
    print(i)
 
+![Uploading 111.PNG…]()
 
