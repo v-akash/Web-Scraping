@@ -48,3 +48,8 @@ for i in l_name:
 
 ![image](https://github.com/user-attachments/assets/661b74a2-9bc1-46bd-a2d2-5a0333c5b632)
 
+#price
+for i in l_price:
+    print(i)
+
+![image](https://github.com/user-attachments/assets/df660d05-b9cf-444c-a586-6bc458c2eb3f)
