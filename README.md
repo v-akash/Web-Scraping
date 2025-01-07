@@ -17,6 +17,11 @@ Web Scraping Laptop data from Flipkart
 
  𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐬: used find() and find_all() to locate elements such as product name,price,crossprice,rating and offer.
  
- •Using the find_all() and range function the elements are extracted from different pages.
 
  𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐭𝐡𝐞 𝐃𝐚𝐭𝐚: Extracted data was converted into pandas dataframe and pivot table for analysis.
+
+# Insights
+
+  This anlysis taught me how to gather insights from unstructured  web data effectively.
+  
+  This data can be used to analyse the price trends,rating and  customer preference
