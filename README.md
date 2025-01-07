@@ -3,7 +3,9 @@ Web Scraping Laptop data from Flipkart
 
 # Tools and Libraries used
  𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥𝐒𝐨𝐮𝐩:parsing and navigating HTML
+ 
  𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐬:To fetch the website content
+ 
  𝐩𝐚𝐧𝐝𝐚𝐬: Data analysis
 
  # Process
@@ -14,6 +16,7 @@ Web Scraping Laptop data from Flipkart
  𝐏𝐚𝐫𝐬𝐞 𝐭𝐡𝐞 𝐇𝐓𝐌𝐋: using”BeautifulSoup” parsed the HTML into readable object like strings,tag.
 
  𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐬: used find() and find_all() to locate elements such as product name,price,crossprice,rating and offer.
+ 
  •Using the find_all() and range function the elements are extracted from different pages.
 
  𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐭𝐡𝐞 𝐃𝐚𝐭𝐚: Extracted data was converted into pandas dataframe and pivot table for analysis.
