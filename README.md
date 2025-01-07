@@ -8,7 +8,7 @@ Web Scraping Laptop data from Flipkart
  
  𝐩𝐚𝐧𝐝𝐚𝐬: Data analysis
 
- # Process
+ # step by step Process
  𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬: Installed libraries such Requests,BeautifulSoup and pandas. 
 
  𝐋𝐨𝐚𝐝 𝐓𝐡𝐞 𝐖𝐞𝐛 𝐏𝐚𝐠𝐞: I sent a get request to flipkart page using the  “Request” library to load web page and ensure a status code 200 to confirm  successful access.
