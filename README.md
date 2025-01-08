@@ -20,11 +20,6 @@ Web Scraping Laptop data from Flipkart
 
  𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐭𝐡𝐞 𝐃𝐚𝐭𝐚: Extracted data was converted into pandas dataframe and pivot table for analysis.
 
-# Insights
-
-  This anlysis taught me how to gather insights from unstructured  web data effectively.
-  
-  This data can be used to analyse the price trends,rating and  customer preference
 
   # Coding
   ![image](https://github.com/user-attachments/assets/dd934ec2-c0b8-44af-a2b0-451c8e5d6766)
@@ -42,3 +37,10 @@ Web Scraping Laptop data from Flipkart
 ![image](https://github.com/user-attachments/assets/bd9c3417-2555-4e24-b0b1-a1e740dac185)
 ![image](https://github.com/user-attachments/assets/d53ea181-02a5-47d0-a777-de77e94cd7dd)
 ![image](https://github.com/user-attachments/assets/8bddc96e-c709-498d-906e-1ce60d6d4ef2)
+
+
+# Insights
+
+  This anlysis taught me how to gather insights from unstructured  web data effectively.
+  
+  This data can be used to analyse the price trends,rating and  customer preference
