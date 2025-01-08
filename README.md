@@ -25,3 +25,8 @@ Web Scraping Laptop data from Flipkart
   This anlysis taught me how to gather insights from unstructured  web data effectively.
   
   This data can be used to analyse the price trends,rating and  customer preference
+
+  # Coding
+  ![image](https://github.com/user-attachments/assets/dd934ec2-c0b8-44af-a2b0-451c8e5d6766)
+![image](https://github.com/user-attachments/assets/b74757ff-762b-434a-88d3-2d1af7330e45)
+
